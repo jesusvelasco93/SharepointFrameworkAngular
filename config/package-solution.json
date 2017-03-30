@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "nueva-instalacion-client-side-solution",
+    "id": "c78d8789-d2f3-465f-ac61-0c870685870f",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/nueva-instalacion.sppkg"
+  }
+}

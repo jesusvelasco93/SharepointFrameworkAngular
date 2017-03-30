@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/webpartNuevaInstalacion/WebpartNuevaInstalacionWebPart.js",
+      "manifest": "./src/webparts/webpartNuevaInstalacion/WebpartNuevaInstalacionWebPart.manifest.json",
+      "outputPath": "./dist/webpart-nueva-instalacion.bundle.js"
+    }
+  ],
+  "externals": {
+      //"@microsoft/sp-module-loader": "node_modules/@microsoft/sp-module-loader/dist/sp-module-loader.js"
+      // "@microsoft/sp-loader": "node_modules/@microsoft/sp-loader/dist/sp-loader.js"
+  },
+  "localizedResources": {
+    "webpartNuevaInstalacionStrings": "webparts/webpartNuevaInstalacion/loc/{locale}.js"
+  }
+}
