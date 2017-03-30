@@ -3,6 +3,6 @@ define([], function() {
     "PropertyPaneDescription": "Description",
     "BasicGroupName": "Group Name",
     "DescriptionFieldLabel": "Description Field",
-    "UrlList": "Url list"
+    //"UrlList": "Url list"
   }
 });

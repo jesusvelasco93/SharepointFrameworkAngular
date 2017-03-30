@@ -42,7 +42,7 @@ export default class WebpartNuevaInstalacionWebPart extends BaseClientSideWebPar
               groupFields: [
                 PropertyPaneTextField('description', {
                   label: strings.DescriptionFieldLabel,
-                  url: strings.UrlList
+                  //label: strings.UrlList
                 })
               ]
             }

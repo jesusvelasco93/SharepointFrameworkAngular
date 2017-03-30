@@ -2,7 +2,7 @@ declare interface IWebpartNuevaInstalacionStrings {
   PropertyPaneDescription: string;
   BasicGroupName: string;
   DescriptionFieldLabel: string;
-  UrlList: string;
+  //UrlList: string;
 }
 
 declare module 'webpartNuevaInstalacionStrings' {
