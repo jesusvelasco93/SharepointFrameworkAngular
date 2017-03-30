@@ -1,0 +1,21 @@
+.row {
+  padding: 20px 0px;
+}
+.button {
+  text-decoration: none;
+}
+.textoSpan {
+  color: white;
+  font-weight: bold;
+  font-size: x-large;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.inputText {
+  border-radius: 5px;
+  /*width: 100%;*/
+}
+.input-group-addon {
+  background: #111111 !important;
+  color: white !important;
+}

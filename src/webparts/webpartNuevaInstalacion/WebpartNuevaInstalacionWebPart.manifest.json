@@ -1,0 +1,21 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "ba4a62c9-c682-4153-83aa-422736310674",
+  "alias": "WebpartNuevaInstalacionWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "ba4a62c9-c682-4153-83aa-422736310674",
+    "group": { "default": "Under Development" },
+    "title": { "default": "Webpart Nueva Instalacion" },
+    "description": { "default": "Webpart Nueva Instalacion description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "Webpart Nueva Instalacion",
+      "url": "url"
+    }
+  }]
+}
